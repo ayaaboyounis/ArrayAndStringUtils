@@ -1,1 +1,8 @@
 # ArrayAndStringUtils
+transposeMatrix
+shiftArrayCyclic
+alternateSum
+findPath
+findSortedSequence
+isAnagram
+isEditDistanceOne
